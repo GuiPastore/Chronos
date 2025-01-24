@@ -1,2 +1,2 @@
 # Chronos
-Sistema de Gestão Financeira Pessoal
+Sistema de Gestão Financeira Pessoall
